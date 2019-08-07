@@ -1,4 +1,6 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [spooky-scary-mansion-ghost-hunt.md](spooky-scary-mansion-ghost-hunt.md)
+* [Spooky Scary Mansion Ghost Hunt](spooky-scary-mansion-ghost-hunt.md)
+* [Daily Life of a Thief](daily-life-of-a-thief.md)
+
