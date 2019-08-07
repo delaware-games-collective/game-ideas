@@ -13,8 +13,11 @@ Potential Mounts \(Chairs w/ Descriptions\)
 * Standard Office Chair: It's as basic as a 9-5 worker
 * CEO Office Chair: The Big Boss demands it
 * Segway: They see me rollin, they hatin 
+* Hot Rod Motor Unicycle: When a segway isn't enough
 * Wheel Chair: Your opponent gonna wish they had the wheel chair
 * Horse: Wait, we're not actually jousting?
+  * Trojan Horse: Effective in destroying computers both electronically and physically
+  * Sea Horse: It lives in salt, in water and on land
 
 Game Mode:
 
