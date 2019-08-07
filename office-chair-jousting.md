@@ -22,7 +22,7 @@ Potential Mounts \(Chairs w/ Descriptions\)
 
 
 
-* Ball chair
+* Ball chair: bounces off surfaces, because of course it does
 
 ![](.gitbook/assets/image.png)
 
