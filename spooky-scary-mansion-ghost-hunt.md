@@ -15,3 +15,25 @@
 * Investigator’s win condition is to collectively exorcise the ghost, but individually do it their own way, ex psychic might want them to cross over/bring them peace, reporter might want to take a photo for proof, clergyman might want to save their soul, etc
 * Players build out the board from a room stack, ala [betrayal](https://boardgamegeek.com/boardgame/10547/betrayal-house-hill)
 
+![](.gitbook/assets/image.png)
+
+
+
+![](.gitbook/assets/image%20%284%29.png)
+
+![](.gitbook/assets/image%20%288%29.png)
+
+![](.gitbook/assets/image%20%282%29.png)
+
+![](.gitbook/assets/image%20%285%29.png)
+
+![](.gitbook/assets/image%20%281%29.png)
+
+![](.gitbook/assets/image%20%2810%29.png)
+
+![](.gitbook/assets/image%20%287%29.png)
+
+![](.gitbook/assets/image%20%289%29.png)
+
+![](.gitbook/assets/image%20%286%29.png)
+
