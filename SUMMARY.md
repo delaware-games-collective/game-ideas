@@ -9,4 +9,5 @@
 * [Alien: Isolation but in VR](alien-isolation-but-in-vr.md)
 * [Flashy combo based fighter](flashy-combo-based-fighter.md)
 * [Co-op survival](co-op-survival.md)
+* [Office Chair Jousting](office-chair-jousting.md)
 
