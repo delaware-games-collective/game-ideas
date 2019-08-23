@@ -1,13 +1,20 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Spooky Mansion Ghost Hunt](spooky-mansion-ghost-hunt.md)
-* [Daily Life of a Thief](daily-life-of-a-thief.md)
-* [Gacha-Style Final Fantasy Tactics](gacha-style-final-fantasy-tactics.md)
-* [Town Building + Defense Simulator](town-building-+-defense-simulator.md)
-* [Supernatural stealth based social gambit](supernatural-stealth-based-social-gambit.md)
-* [Alien: Isolation but in VR](alien-isolation-but-in-vr.md)
-* [Flashy combo based fighter](flashy-combo-based-fighter.md)
-* [Co-op survival](co-op-survival.md)
-* [Office Chair Jousting](office-chair-jousting.md)
+
+## Game Ideas
+
+* [Spooky Mansion Ghost Hunt](game-ideas/spooky-mansion-ghost-hunt.md)
+* [Office Chair Jousting](game-ideas/office-chair-jousting.md)
+* [Co-op survival](game-ideas/co-op-survival.md)
+* [Flashy combo based fighter](game-ideas/flashy-combo-based-fighter.md)
+* [Alien: Isolation but in VR](game-ideas/alien-isolation-but-in-vr.md)
+* [Supernatural stealth based social gambit](game-ideas/supernatural-stealth-based-social-gambit.md)
+* [Town Building + Defense Simulator](game-ideas/town-building-+-defense-simulator.md)
+* [Gacha-Style Final Fantasy Tactics](game-ideas/gacha-style-final-fantasy-tactics.md)
+* [Daily Life of a Thief](game-ideas/daily-life-of-a-thief.md)
+
+## Meeting Minutes
+
+* [2019-08-18](meeting-minutes/2019-08-18.md)
 
