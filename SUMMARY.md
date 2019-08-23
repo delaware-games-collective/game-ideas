@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Spooky Scary Mansion Ghost Hunt](spooky-scary-mansion-ghost-hunt.md)
+* [Spooky Mansion Ghost Hunt](spooky-mansion-ghost-hunt.md)
 * [Daily Life of a Thief](daily-life-of-a-thief.md)
 * [Gacha-Style Final Fantasy Tactics](gacha-style-final-fantasy-tactics.md)
 * [Town Building + Defense Simulator](town-building-+-defense-simulator.md)
