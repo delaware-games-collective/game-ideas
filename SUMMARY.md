@@ -16,5 +16,3 @@
 
 ## Meeting Minutes
 
-* [2019-08-18](meeting-minutes/2019-08-18.md)
-
