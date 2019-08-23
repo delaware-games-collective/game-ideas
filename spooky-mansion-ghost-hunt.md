@@ -1,4 +1,4 @@
-# Spooky Scary Mansion Ghost Hunt
+# Spooky Mansion Ghost Hunt
 
 * Make a board game based on a haunted house/mansion
 * Ghost hunting
