@@ -1,4 +1,4 @@
-# Spooky Mansion Ghost Hunt
+# Brainstorming
 
 * Make a board game based on a haunted house/mansion
 * Ghost hunting

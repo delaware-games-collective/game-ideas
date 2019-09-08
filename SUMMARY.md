@@ -2,9 +2,11 @@
 
 * [Welcome!](README.md)
 
-## Active Projects
+## Spooky Mansion Ghost Hunt
 
-* [Spooky Mansion Ghost Hunt](active-projects/spooky-mansion-ghost-hunt.md)
+* [Brainstorming](spooky-mansion-ghost-hunt/spooky-mansion-ghost-hunt.md)
+* [Overview & Rules](spooky-mansion-ghost-hunt/overview-and-rules.md)
+* [Contributers](spooky-mansion-ghost-hunt/contributers.md)
 
 ## Brainstorming
 
