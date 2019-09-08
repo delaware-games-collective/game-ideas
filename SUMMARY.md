@@ -2,17 +2,18 @@
 
 * [Welcome!](README.md)
 
-## Game Ideas
+## Active Projects
 
-* [Spooky Mansion Ghost Hunt](game-ideas/spooky-mansion-ghost-hunt.md)
-* [Office Chair Jousting](game-ideas/office-chair-jousting.md)
-* [Co-op survival](game-ideas/co-op-survival.md)
-* [Flashy combo based fighter](game-ideas/flashy-combo-based-fighter.md)
-* [Alien: Isolation but in VR](game-ideas/alien-isolation-but-in-vr.md)
-* [Supernatural stealth based social gambit](game-ideas/supernatural-stealth-based-social-gambit.md)
-* [Town Building + Defense Simulator](game-ideas/town-building-+-defense-simulator.md)
-* [Gacha-Style Final Fantasy Tactics](game-ideas/gacha-style-final-fantasy-tactics.md)
-* [Daily Life of a Thief](game-ideas/daily-life-of-a-thief.md)
+* [Spooky Mansion Ghost Hunt](active-projects/spooky-mansion-ghost-hunt.md)
 
-## Meeting Minutes
+## Brainstorming
+
+* [Office Chair Jousting](brainstorming/office-chair-jousting.md)
+* [Co-op survival](brainstorming/co-op-survival.md)
+* [Flashy combo based fighter](brainstorming/flashy-combo-based-fighter.md)
+* [Alien: Isolation but in VR](brainstorming/alien-isolation-but-in-vr.md)
+* [Supernatural stealth based social gambit](brainstorming/supernatural-stealth-based-social-gambit.md)
+* [Town Building + Defense Simulator](brainstorming/town-building-+-defense-simulator.md)
+* [Gacha-Style Final Fantasy Tactics](brainstorming/gacha-style-final-fantasy-tactics.md)
+* [Daily Life of a Thief](brainstorming/daily-life-of-a-thief.md)
 
