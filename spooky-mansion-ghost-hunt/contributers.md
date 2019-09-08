@@ -1,6 +1,6 @@
 # Contributers
 
-### Designers
+### Design
 
 Alina Christenbury
 
