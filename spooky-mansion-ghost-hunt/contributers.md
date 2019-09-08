@@ -3,7 +3,7 @@
 ### Design
 
 Alina Christenbury  
-Prescott Weems
+Prescott Weems  
 Rachael Barto
 Jon Martin
 Ahila Moorthy
