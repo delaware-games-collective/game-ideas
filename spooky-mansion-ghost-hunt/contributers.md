@@ -2,5 +2,6 @@
 
 ### Design
 
-Alina Christenbury
+Alina Christenbury  
+Prescott Weems
 
