@@ -1,9 +1,10 @@
-# Contributors
+# Contributers
 
-### Design
+## Design
 
 Alina Christenbury  
 Prescott Weems  
-Rachael Barto
-Jon Martin
+Rachael Barto  
+Jon Martin  
 Ahila Moorthy
+
