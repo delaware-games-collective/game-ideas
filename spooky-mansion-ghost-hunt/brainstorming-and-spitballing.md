@@ -35,16 +35,14 @@
 * Ghost does not have a physical pawn
 * The maps are pseudo-randomly generated
   * Potentially using a codenames style cheat-sheet for the ghost
+* Sanity loss downs investigators
+* other investigators and revive downed investigators
 
-![](../.gitbook/assets/image%20%2815%29.png)
-
-
-
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 
 
@@ -52,9 +50,13 @@
 
 
 
+![](../.gitbook/assets/image%20%2827%29.png)
+
+
+
 ![](../.gitbook/assets/image%20%282%29.png)
 
 
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
