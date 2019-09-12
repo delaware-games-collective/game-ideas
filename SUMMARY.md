@@ -4,7 +4,9 @@
 
 ## Spooky Mansion Ghost Hunt
 
-* [Brainstorming](spooky-mansion-ghost-hunt/spooky-mansion-ghost-hunt.md)
+* [Brainstorming & Spitballing](spooky-mansion-ghost-hunt/brainstorming-and-spitballing.md)
+* [Paper Prototypes](spooky-mansion-ghost-hunt/paper-prototypes.md)
+* [Image Mockups](spooky-mansion-ghost-hunt/image-mockups.md)
 * [Overview & Rules](spooky-mansion-ghost-hunt/overview-and-rules.md)
 * [Contributers](spooky-mansion-ghost-hunt/contributers.md)
 
