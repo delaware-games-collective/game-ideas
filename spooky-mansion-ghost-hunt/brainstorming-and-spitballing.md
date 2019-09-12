@@ -37,6 +37,12 @@
   * Potentially using a codenames style cheat-sheet for the ghost
 * Sanity loss downs investigators
 * other investigators and revive downed investigators
+* Bright-spooky aesthetic / Nintendo spooky aesthetic / silly-spooky
+* the ghost is just, the entire house, like they \*are\* the house, you play as the house
+* Room shuffling is an interesting mechanic, maybe it only happens on certain beats
+* Room discovery is also an interesting mechanic/is an interesting way to explore
+* Might be better to have the ghost have a physical presence, maybe it's part of a secondary phase?
+* Phase 1 no ghost body, phase 2 there's a ghost body and after the investigators complete the exorcism they have to trap the body too
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 

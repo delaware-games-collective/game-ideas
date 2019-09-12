@@ -64,3 +64,7 @@
 
 {% embed url="https://boardgamegeek.com/boardgame/181304/mysterium" %}
 
+{% embed url="https://www.youtube.com/watch?v=n96kMH2xBHY" %}
+
+{% embed url="https://boardgamegeek.com/boardgame/1294/clue" %}
+
