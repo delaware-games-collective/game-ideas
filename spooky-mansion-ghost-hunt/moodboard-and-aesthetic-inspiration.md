@@ -50,5 +50,17 @@
 
 {% embed url="https://www.youtube.com/watch?v=VSbOXCo3j\_4" %}
 
+{% embed url="https://armorgames.com/play/7195/haunt-the-house" %}
+
+{% embed url="https://boardgamegeek.com/boardgame/10547/betrayal-house-hill" %}
+
+{% embed url="http://edithfinch.com/" %}
+
+{% embed url="https://gonehome.game/" %}
+
+{% embed url="https://luigismansion.nintendo.com/" %}
+
+{% embed url="https://www.youtube.com/watch?v=LmtNubCiq44" %}
+
 
 
