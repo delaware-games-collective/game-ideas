@@ -28,7 +28,7 @@ Potential Mounts \(Chairs w/ Descriptions\)
 * Cardboard Boxes on wheels: Yes! all those years of LARPing paid off
 * Ball chair: bounces off surfaces, because of course it does \(Alternative: Science gone too far with productivity and fitness\)
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 Jousting Lances
 
