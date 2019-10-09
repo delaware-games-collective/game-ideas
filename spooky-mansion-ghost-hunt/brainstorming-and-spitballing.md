@@ -44,6 +44,32 @@
 * Might be better to have the ghost have a physical presence, maybe it's part of a secondary phase?
 * Phase 1 no ghost body, phase 2 there's a ghost body and after the investigators complete the exorcism they have to trap the body too
 
+
+
+
+
+* Rooms are in a grid, either 1 unit or 2
+* 1 ghost to start with
+* ghost places items in house and knows their locations
+* investigators collect items x3
+* investigators have AP
+  * movement
+  * unlock doors
+  * discover items
+  * 4ap/turn
+* ghost has powers
+* investigators have sanity
+* ghost's goal: lower sanity of all players
+* investigator's goal: exorcise ghost
+  * discover items
+  * discover room/site
+  * gather
+* map pseudo-random, something like codenames key
+* charactisitics of spooky houses
+  * impossible architecture
+  * moving architecture
+* make it a tilt5 AR game?
+
 ![](../.gitbook/assets/image%20%2828%29.png)
 
 
