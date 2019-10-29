@@ -6,7 +6,7 @@
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 {% embed url="https://www.youtube.com/watch?v=x5hJcjJ1Lb4" %}
 
@@ -20,7 +20,7 @@
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 {% embed url="https://mcmansionhell.com/" %}
 
@@ -28,11 +28,11 @@
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
@@ -67,4 +67,6 @@
 {% embed url="https://www.youtube.com/watch?v=n96kMH2xBHY" %}
 
 {% embed url="https://boardgamegeek.com/boardgame/1294/clue" %}
+
+![](../.gitbook/assets/image%20%2831%29.png)
 
